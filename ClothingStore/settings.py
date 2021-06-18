@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'crispy_forms',
     'employee.apps.EmployeeConfig',
     'product.apps.ProductConfig',
+    #'invoice.apps.Invoiceconfig';
 ]
 
 MIDDLEWARE = [
